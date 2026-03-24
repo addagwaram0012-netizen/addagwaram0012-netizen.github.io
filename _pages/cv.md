@@ -7,58 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# [cite_start]教育与工作经历 [cite: 2]
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **2022.12 - 至今**：讲师，上海电力大学 自动化工程学院
+* **2021.11 - 2022.11**：联合培养博士生，英国布鲁奈尔大学 (Brunel University London)
+* **2018.09 - 2022.12**：博士，东华大学 控制科学与工程
+* **2017.05 - 2018.05**：智能驾驶(ADAS)工程师，华域汽车系统股份有限公司
+* **2014.09 - 2017.04**：硕士，上海理工大学 电气工程
+* **2010.09 - 2014.07**：本科，上海理工大学 电气工程及其自动化
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# [cite_start]所获荣誉 [cite: 4]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **2023年**：上海市优秀毕业研究生
+* **2022年**：上海市自动化学会最佳博士论文
+* **2020-2021学年**：东华大学优秀学生
