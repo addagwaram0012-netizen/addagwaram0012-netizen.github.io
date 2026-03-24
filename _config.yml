@@ -25,10 +25,10 @@ repository               : "academicpages/academicpages.github.io"
 # Author
 author:
   name: "渠博岗"
-  avatar: "me.jpg" # 如果你有证件照，上传到 images 文件夹并把名字写在这里
-  [cite_start]bio: "上海电力大学自动化工程学院 讲师" # [cite: 2]
-  [cite_start]location: "上海, 中国" # [cite: 2]
-  [cite_start]email: "bogangqu@163.com" # [cite: 2]
+  avatar: "me.jpg"
+  bio: "上海电力大学自动化工程学院 讲师"
+  location: "上海, 中国"
+  email: "bogangqu@163.com"
 
   # Academic websites
   academia         : # URL
